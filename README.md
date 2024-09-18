@@ -135,9 +135,3 @@ Solve for the constant term of the polynomial, typically represented as c.
 FOR SOLUTION CHECK ABOVE ps-1.js file or Solution Folder
 
 If your going with Solution folder then install dependencies
-
-#step-1
-npm install
-
-#step-2
-node index.js
