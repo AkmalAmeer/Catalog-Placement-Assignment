@@ -130,3 +130,6 @@ Solve for the constant term of the polynomial, typically represented as c.
 **Output:** Print ‘c’.
 
 **Hint:** Although you can't test your code against the test case in a testing environment, you can double-check it manually by solving the polynomial on paper and comparing the outputs.
+
+
+FOR SOLUTION CHECK ABOVE ps-1.js file
